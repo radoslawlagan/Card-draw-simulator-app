@@ -1,4 +1,4 @@
-# Draw Card Simulator App
+# Card Draw Simulator App
 
 This is a Card Draw Simulator App that I've made in React.
 
