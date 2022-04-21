@@ -25,5 +25,7 @@ The projects also uses React Router - it has the main page on which You draw a c
 - HTML5
 - CSS
 - Flexbox
+- Mobile First
+- RWD
 - React
 - React Router
