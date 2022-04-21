@@ -12,6 +12,7 @@ The projects also uses React Router - it has the main page on which You draw a c
 ### Screenshot
 
 ![](./screenshot.jpg)
+![](./screenshot2.jpg)
 
 ### Links
 
